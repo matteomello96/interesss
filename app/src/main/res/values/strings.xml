@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Intresting!</string>
+    <string name="reg">Registrati</string>
+    <string name="ev">Eventi organizzati</string>
+    <string name="ac">Accedi</string>
+    <string name="loginbut">Effettua Login</string>
+    <string name="filter">Filtra per:</string>
+    <string name="here">Scrivi qui</string>
+    <string name="hereuser">Inserire lo username</string>
+    <string name="herepass">Inserire la password</string>
+    <string name="heremail">Inserire la mail</string>
+    <string name="insert">Inserire qui tabella</string>
+    <string name="usertab">Username</string>
+    <string name="passtab">Password</string>
+    <string name="log">Inserisci i dati di login</string>
+    <string name="forgot"><u>Password dimenticata?</u></string>
+    <string name="regtext">Non sei ancora iscritto?Registrati subito!</string>
+    <string name="recbut">Recupera la password</string>
+    <string name="mailtab">Indirizzo mail</string>
+    <string name="rectext">Recupera la tua password</string>
+    <string name="menuregister">Menu di iscrizione</string>
+    <string name="anagraphic">Dati anagrafici</string>
+    <string name="labelnome">Nome</string>
+    <string name="herename">Inserisci il nome</string>
+    <string name="labelsurname">Cognome</string>
+    <string name="heresurname">Inserisci il cognome</string>
+    <string name="labelfiscalcode">Codice fiscale</string>
+    <string name="herefiscalcode">Inserisci il cod. fiscale</string>
+</resources>
